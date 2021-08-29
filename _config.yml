@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Blanc
-image: /dist/images/logo.png
-favicon: /dist/images/favicon.ico
+title: META distribuidora
+image: /metadistribuidora/dist/images/logo.png
+favicon: /metadistribuidora/dist/images/favicon.ico
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is an example of small lite weighted theme that place orders via whatsapp.
@@ -28,14 +28,14 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://iuryadones.github.io/metadistribuidora" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
-author: Blanc Designs
-country-code: 91
-phone: 9544654659
+author: Iury Adones
+country-code: 55
+phone: 81988631589
 header:
-  heading: Hello! 🖐, Welcome to 
+  heading: Oi! 🖐, sejam bem vindo para 
   description: "We are home based cake shop 😍. Our all products are not available for display. We make each product after getting the order. Order should be placed before 2 days. Enjoy 😋"
 productPage:
-  heading: Our Products 🍰
+  heading: Nossos produtos
   description: ""
 # Collections
 collections:
