@@ -21,9 +21,9 @@
 title: META distribuidora
 image: /metadistribuidora/dist/images/logo.png
 favicon: /metadistribuidora/dist/images/favicon.ico
-email: your-email@example.com
+email: iuryadones@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is an example of small lite weighted theme that place orders via whatsapp.
+  META Distribuidora de materiais para provedores de internet e serviços na área de telecomunicacões. Solicite via whatsapp o seu pedido.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://iuryadones.github.io/metadistribuidora" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
